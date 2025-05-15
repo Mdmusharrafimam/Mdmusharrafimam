@@ -4,9 +4,9 @@
 - 👀 I’m interested in Software Developer and Public Speaking 🗣️ 
 - 🌱 I’m currently learning Java With DSA .
 - 💞️ I’m looking to collaborate on Like minded Peoples.
-- 📫 How to reach me through E-mail ID: mdmusharrafimam.in@gmail.com
+- 📫 How to reach me through E-mail ID: mdmusharrafmallick62@gmail.com
 - 😄 Pronouns: He😊
-- ⚡ Fun fact: Communication skills and Negotiation skills.
+- ⚡ Fun fact: Communication skills,Presentation Skills and Negotiation skills.
 
 <!---
 Mdmusharrafimam/Mdmusharrafimam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
